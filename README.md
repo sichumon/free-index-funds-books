@@ -1,5 +1,5 @@
 # free-index-funds-books
-Free Books and Videos on Index Funds/Index Fund Investing
+Free books and videos (maybe long-form blogs) on index Funds/index investing
 
 
 ## Curriculum/Recommended
