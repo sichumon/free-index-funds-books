@@ -4,6 +4,7 @@ Free Books and Videos on Index Funds/Index Fund Investing
 
 ## Curriculum/Recommended
 Here's a short curriculum of selected free books on index investing if you are new:
+* [VTSAX - Vanguard Total Stock Market Index Fund Admiral Shares](https://investor.vanguard.com/mutual-funds/profile/vtsax)
 * [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
