@@ -15,4 +15,7 @@ Here's a short curriculum to read selected books on index investing if you are n
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
 ### Economics
+* [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
+* [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
+* [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)
 ### Stock Market
