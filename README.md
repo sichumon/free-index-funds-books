@@ -9,5 +9,6 @@ Here's a short curriculum to read selected books on index investing if you are n
 # Free Books/Videos
 
   ## Index Funds
+    * [John Bogle - The Little Book of Common Sense Investing (Audiobook)](https://www.youtube.com/watch?v=TNvbBvzelCY)
   ## Economics
   ## Stock Market
