@@ -7,6 +7,7 @@ Here's a short curriculum of selected free books on index investing if you are n
 * [VTSAX - Vanguard Total Stock Market Index Fund Admiral Shares](https://investor.vanguard.com/mutual-funds/profile/vtsax)
 * [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
+* JL Collins - Stock Series ChooseFI Podcast: [Part 1](https://www.youtube.com/watch?v=MptrorLhEsc) & [Part 2](https://www.youtube.com/watch?v=ChWVSp0kruA) & [Part 3](https://www.youtube.com/watch?v=U6GANibNq_s)
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [Mr Money Mustache - How to make Money in the Stock Market](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/)
 * [Mr Money Mustache - Getting Started #1 – What am I Supposed to Do With All This Money?](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/)
