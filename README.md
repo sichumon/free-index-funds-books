@@ -1,4 +1,4 @@
-# free_index_funds_books
+# free-index-funds-books
 Free Books and Videos on Index Fund/Index Fund Investing
 
 
