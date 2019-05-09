@@ -29,7 +29,10 @@ Here's a short curriculum of selected free books on index investing if you are n
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
 * [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
 * [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)
+
 ### Frugality
+* [FreeEbooksFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+* [Holm School - How to Be a Not Rich Computer Scientist](https://holm.school/about/)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
 
 ### Getting Out of Debt
