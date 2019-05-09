@@ -42,3 +42,5 @@ Here's a short curriculum of selected free books on index investing if you are n
 
 ### Stock Market
 
+### Personal Finance
+
