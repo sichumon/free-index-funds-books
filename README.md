@@ -4,7 +4,9 @@ Free Books and Videos on Index Funds/Index Fund Investing
 
 ## Curriculum/Recommended
 Here's a short curriculum to read selected books on index investing if you are new to index funds:
-```coming soon```
+* [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
+* [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
+* [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 
 ## Free Books
 
