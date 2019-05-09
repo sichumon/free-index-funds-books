@@ -12,6 +12,7 @@ Here's a short curriculum of selected free books on index investing if you are n
 * [Mr Money Mustache - How to make Money in the Stock Market](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/)
 * [Mr Money Mustache - Getting Started #1 – What am I Supposed to Do With All This Money?](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/)
 * [Mr Money Mustache - How to Retire Forever on a Fixed Chunk of Money](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/)
+* [John Bogle - The Little Book of Common Sense Investing (Audio)](https://www.youtube.com/watch?v=TNvbBvzelCY)
 * [Holm School - Tips for Personal Finance](https://holm.school/tips-for-personal-finance/)
 * [NPR LifeKit - Secrets Of Saving And Investing (Audio)](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 
