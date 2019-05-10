@@ -3,7 +3,7 @@ Free books and videos (maybe long-form blogs) on index funds/index investing ðŸ‡
 
 ## Recommended
 
-Can't go wrong with [JL Collins's stock series](https://jlcollinsnh.com/stock-series). [Potential](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/) [Mr Money Mustache](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/) [Posts](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/). [A good video on 401ks (max yours out)](https://www.pbs.org/video/frontline-retirement-gamble). [Paid book reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
+Can't go wrong with [JL Collins's stock series](https://jlcollinsnh.com/stock-series). [Potential](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/). [MMM](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/). [Posts](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/). [Regarding 401ks](https://www.pbs.org/video/frontline-retirement-gamble) (max out yours in a S&P500 index fund plus maxing out a Vanguard IRA each year buying VTSAX). [Paid book reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
 
 ## Books
 
