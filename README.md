@@ -1,17 +1,18 @@
 # free-index-funds-books
 Free books and videos (maybe long-form blogs) on index funds/index investing 🇺🇸
 
+## Recommended
 
+Can't go wrong with JL Collins's stock series.
 
-
-## Free Books
+## Books
 
 ### Index Funds
 * [William Bernstein - If You Can - How Millennials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
 * [John Bogle - The Little Book of Common Sense Investing (Audio)](https://www.youtube.com/watch?v=TNvbBvzelCY)
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
-* JL Collins - Stock Series ChooseFI Podcast (Audio): Part 1 & Part 2 & Part 3
+* JL Collins - Stock Series ChooseFI Podcast (Audio): [Part 1](https://www.youtube.com/watch?v=MptrorLhEsc) & [Part 2](https://www.youtube.com/watch?v=ChWVSp0kruA) & [Part 3](https://www.youtube.com/watch?v=U6GANibNq_s)
 * [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
 * [NPR LifeKit - Secrets Of Saving And Investing (Audio)](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 * [NPR Planet Money - Episode 688: Brilliant Vs. Boring (Audio)](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
