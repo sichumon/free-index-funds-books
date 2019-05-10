@@ -5,7 +5,7 @@ Free books and videos (maybe long-form blogs) on index funds/index investing ðŸ‡
 
 Can't go wrong with [JL Collins's stock series](https://jlcollinsnh.com/stock-series).
 
-[Potential](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/). [MMM](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/). [Posts](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/).
+Possible Mr. Money Mustache posts: [1](https://www.mrmoneymustache.com/2011/05/18/how-to-make-money-in-the-stock-market/) & [2](https://www.mrmoneymustache.com/2011/04/10/post-4-what-am-i-supposed-to-do-with-all-this-money/) & [3](https://www.mrmoneymustache.com/2018/11/29/how-to-retire-forever-on-a-fixed-chunk-of-money/) & [4](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/) & [5](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
 
 [Regarding 401ks](https://www.pbs.org/video/frontline-retirement-gamble): max-out your 401k each year ($19000) in an S&P500 index fund (or 81% large-cap index/S&P500, 6% mid-cap index, and 13% small-cap index if you have those options) plus maxing-out a Vanguard IRA ($6000) each year buying VTSAX.
 
