@@ -9,7 +9,7 @@ Can't go wrong with [JL Collins's stock series](https://jlcollinsnh.com/stock-se
 
 [Regarding 401ks](https://www.pbs.org/video/frontline-retirement-gamble) (max out yours in a S&P500 index fund plus maxing out a Vanguard IRA each year buying VTSAX).
 
-[Paid book reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
+[Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
 
 ## Books
 
