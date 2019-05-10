@@ -9,6 +9,8 @@ Can't go wrong with [JL Collins's stock series](https://jlcollinsnh.com/stock-se
 
 [Regarding 401ks](https://www.pbs.org/video/frontline-retirement-gamble) (max out yours in a S&P500 index fund plus maxing out a Vanguard IRA each year buying VTSAX).
 
+Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing) & [2](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
+
 [Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
 
 ## Books
