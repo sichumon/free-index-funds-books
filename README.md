@@ -23,6 +23,7 @@ Here's a short curriculum of selected free books/video/posts on index investing 
 * [John Bogle - The Little Book of Common Sense Investing (Audio)](https://www.youtube.com/watch?v=TNvbBvzelCY)
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
+* JL Collins - Stock Series ChooseFI Podcast (Audio): Part 1 & Part 2 & Part 3
 * [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
 * [NPR LifeKit - Secrets Of Saving And Investing (Audio)](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 * [NPR Planet Money - Episode 688: Brilliant Vs. Boring (Audio)](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
@@ -43,4 +44,5 @@ Here's a short curriculum of selected free books/video/posts on index investing 
 ### Stock Market
 
 ### Personal Finance
+* [Holm School - Tips for Personal Finance](https://holm.school/tips-for-personal-finance/)
 
