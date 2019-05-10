@@ -31,7 +31,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)
 
 ### Frugality
-* [Joe Dominguez - Transforming Your Relationship with Money](https://www.youtube.com/watch?v=vh254B3uVwQ)
+* [Joe Dominguez - Transforming Your Relationship with Money (Audio)](https://www.youtube.com/watch?v=vh254B3uVwQ)
 * [FreeEbooksFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Holm School - How to Be a Not Rich Computer Scientist](https://holm.school/about/)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
