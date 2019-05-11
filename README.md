@@ -17,13 +17,23 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ### Index Funds
 * [William Bernstein - If You Can - How Millennials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
+* [John Bogle -  Bogle on mutual funds : new perspectives for the intelligent investor](https://archive.org/details/bogleonmutualfu000bogl)
+* [John Bogle - Common sense on mutual funds : new imperatives for the intelligent investor](https://archive.org/details/commonsenseonmut00bogl)
+* [John Bogle - John Bogle on investing : the first 50 years](https://archive.org/details/johnbogleoninves00john_0)
 * [John Bogle - The Little Book of Common Sense Investing (Audio)](https://www.youtube.com/watch?v=TNvbBvzelCY)
+* [Ted Cadsby - The power of Index Funds](https://archive.org/details/powerofindexfund0000cads) (Canada)
 * [JL Collins - Google Talks (Video)](https://www.youtube.com/watch?v=T71ibcZAX3I)
 * [JL Collins - Stock Series](https://jlcollinsnh.com/stock-series/)
 * JL Collins - Stock Series ChooseFI Podcast: [Part 1](https://www.youtube.com/watch?v=MptrorLhEsc) & [Part 2](https://www.youtube.com/watch?v=ChWVSp0kruA) & [Part 3](https://www.youtube.com/watch?v=U6GANibNq_s) (Audio)
+* [Richard Ferri - All about index funds : the easy way to get started](https://archive.org/details/allaboutindexfun00rich)
+* [Mark Hebner - Index funds : the 12-step program for active investors](https://archive.org/details/indexfunds12step00hebn)
 * [PBS Frontline - The Retirement Gamble (Video)](https://www.pbs.org/video/frontline-retirement-gamble/)
 * [NPR LifeKit - Secrets Of Saving And Investing (Audio)](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 * [NPR Planet Money - Episode 688: Brilliant Vs. Boring (Audio)](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
+* [Wendell Scott Simon -  Index mutual funds : profiting from an investment revolution](https://archive.org/details/indexmutualfunds00simo/page/n5)
+* [Larry Swedroe -The only guide to a winning investment strategy you'll ever need : index funds and beyond-- the way smart money invests today](https://archive.org/details/onlyguidetowinni00swed/page/n309)
+* [Larry Swedroe - What Wall Street doesn't want you to know : how you can build real wealth investing in index funds](https://archive.org/details/whatwallstreetdo00swed/page/n5)
+* [Jerry Tweddell - Winning with Index Mutual Funds](https://archive.org/details/winningwithindex00twed_1/page/n9)
 
 ### Economics
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
