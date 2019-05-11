@@ -77,10 +77,9 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ### Getting Out of Debt
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
+* [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
+
 
 ### Stock Market
 * [Bogle, John -  The battle for the soul of capitalism](https://archive.org/details/battleforsoulo00bogl)
-
-### Personal Finance
-* [Holm School - Tips for Personal Finance](https://holm.school/tips-for-personal-finance/)
 
