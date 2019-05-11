@@ -1,5 +1,5 @@
 # free-index-funds-books
-Free books and videos (maybe long-form blogs) on index funds/index investing. Also check out your public library's Overdrive/Libby e-subscription for their archive too, as well as their physical stack. 🇺🇸
+Free books and videos (maybe long-form blogs) on index funds/index investing. Also check out your public library's physical stack as well as their Overdrive/Libby e-subscription. 🇺🇸
 
 ## Recommended
 
