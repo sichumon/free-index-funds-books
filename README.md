@@ -17,7 +17,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ### Index
 * [Index Funds](#index-funds)
-* [Economics](#economics]
+* [Economics](#economics)
 * [Frugality](#frugality)
 * [Getting Out of Debt](#getting-out-of-debt)
 * [Stock Market/Capitalism](#stock-marketcapitalism)
