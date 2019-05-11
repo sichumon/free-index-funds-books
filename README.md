@@ -56,12 +56,24 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)
 
 ### Frugality
+* [Bach, David - Fight for your money : how to stop getting ripped off and save a fortune](https://archive.org/details/fightforyourmone00davi)
+* [Bruno, Dave - The 100 thing challenge : how I got rid of almost everything, remade my life, and regained my soul](https://archive.org/details/100thingchalleng00unse)
 * [Dominguez, Joe - Transforming Your Relationship with Money (Audio)](https://www.youtube.com/watch?v=vh254B3uVwQ)
+* [Donovan, Sandra - Budgeting smarts : how to set goals, save money, spend wisely, and more](https://archive.org/details/budgetingsmartsh00dono)
 * [FreeEbooksFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Holm School - How to Be a Not Rich Computer Scientist](https://holm.school/about/)
+* [Kay, Ellie - How to save money every day](https://archive.org/details/howtosavemoneyev0000kaye)
+* [McCoy, Jonni - Mi$erly moms : living on one income in a two income economy](https://archive.org/details/miserlymoms00jonn)
+* [Muchnick, Cynthia - The frugal bride : save money on your wedding without losing an ounce of the romance](https://archive.org/details/frugalbridesavem0000much)
+* [Nardini, John and Meyering, Amy - 600 simple ways to save on everything](https://archive.org/details/600simplewaystos00nard)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
+* [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
 * [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
+* [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
 * [Stanley, Thomas - The Millionaire Next Door (Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA)
+* [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
+
+
 
 ### Getting Out of Debt
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
