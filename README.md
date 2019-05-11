@@ -13,18 +13,14 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 [Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
 
-## Books
-
-### Index
+## Index
 * [Economics](#economics)
 * [Frugality](#frugality)
 * [Getting Out of Debt](#getting-out-of-debt)
 * [Index Funds](#index-funds)
 * [Stock Market/Capitalism](#stock-marketcapitalism)
 
-
-
-
+##  Books
 
 ### Economics
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
