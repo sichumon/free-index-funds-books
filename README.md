@@ -11,7 +11,7 @@ Potential Mr. Money Mustache posts: [1](https://www.mrmoneymustache.com/2011/05/
 
 Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing) & [2](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
 
-[Personal Finance Tips](https://holm.school/tips-for-personal-finance/) from Holm School aimed at computer scientists
+[Personal Finance Tips](https://holm.school/tips-for-personal-finance/) from Holm School
 
 [Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books) to checkout from your public library.
 
