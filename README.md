@@ -15,6 +15,13 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ## Books
 
+### Index
+* [Index Funds](#index-funds)
+* [Economics](#economics]
+* [Frugality](#frugality)
+* [Getting Out of Debt](#getting-out-of-debt)
+* [Stock Market/Capitalism](#stock-market-capitalism)
+
 ### Index Funds
 * [Bernstein, William - The four pillars of investing](https://archive.org/details/fourpillarsofinv00bern)
 * [Bernstein, William - If You Can - How Millennials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
