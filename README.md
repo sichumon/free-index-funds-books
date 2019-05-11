@@ -80,6 +80,8 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
 
 
-### Stock Market
+### Stock Market/Capitalism
 * [Bogle, John -  The battle for the soul of capitalism](https://archive.org/details/battleforsoulo00bogl)
-
+* [NPR Planet Money](https://npr.org/planetmoney) (Podcast)
+* Pinker, Steven - Enlightenment Now ([Overdrive](https://www.overdrive.com/media/3348733/enlightenment-now)) ([Audiobook](https://www.overdrive.com/media/3390584/enlightenment-now))
+* Pinker, Steven - The Better Angels of Our Nature ([Overdrive](https://www.overdrive.com/media/592227/the-better-angels-of-our-nature)) ([AudioBook](https://www.youtube.com/watch?v=KRaHUR6XCak&list=PLPp9s7YaCNZdi98L8DXJocKoSeG2mnrBc))
