@@ -51,6 +51,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 
 ### Getting Out of Debt
+* [Kamenetz, Anya - Generation debt : why now is a terrible time to be young](https://archive.org/details/generationdebtwh00kame)
 * [NPR LifeKit - Get Out Of Debt (Audio)](https://www.npr.org/podcasts/510335/get-out-of-debt)
 * [Ramsey, Dave - The total money makeover : a proven plan for financial fitness](https://archive.org/details/isbn_9781595555274)
 
