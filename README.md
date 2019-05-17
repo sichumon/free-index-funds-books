@@ -72,7 +72,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
 * [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
-* Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book version 1)](https://archive.org/details/millionairenextd00stan) [(Book version 2)](https://archive.org/details/millionairenextdsta00stan)
+* Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book)](https://archive.org/details/TheMillionaireNextDoorBookMANTESH.PDF)
 * [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
 
 
