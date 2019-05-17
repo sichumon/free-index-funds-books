@@ -14,6 +14,8 @@ PBS | [Frontline Regarding 401ks](https://www.pbs.org/video/frontline-retirement
 NPR | [Secrets of Saving and Investing](https://www.npr.org/podcasts/510330/secrets-of-saving-and-investing)
 NPR | [Planet Money - Brilliant vs Boring](https://www.npr.org/sections/money/2019/01/23/688018907/episode-688-brilliant-vs-boring)
 Holm School | [Personal Finance Tips](https://holm.school/tips-for-personal-finance/)
+John Bogle | [The little book of common sense investing](https://archive.org/details/littlebookofcomm00bogl)
+Bernstein, William | [If You Can - How Millennials Can Get Rich Slowly](https://www.etf.com/docs/IfYouCan.pdf)
 r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/financialindependence/wiki/books)
 
 ## Index
