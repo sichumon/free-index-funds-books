@@ -64,6 +64,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Bissonnette, Zac  Debt-Free U](https://archive.org/details/debtfreeuhowipai00biss_0)
 * [Bruno, Dave - The 100 thing challenge : how I got rid of almost everything, remade my life, and regained my soul](https://archive.org/details/100thingchalleng00unse)
 * [Clason, George - The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)
+* [Dacyczyn, Amy - The complete Tightwad gazette : promoting thrift as a viable alternative lifestyle](https://archive.org/details/completetightwad00amyd)
 * [Dominguez, Joe - Transforming Your Relationship with Money (Audio)](https://www.youtube.com/watch?v=vh254B3uVwQ)
 * [Donovan, Sandra - Budgeting smarts : how to set goals, save money, spend wisely, and more](https://archive.org/details/budgetingsmartsh00dono)
 * [Dunn, Elizabeth and Norton, Michael - Happy money : the science of smarter spending](https://archive.org/details/isbn_9781451665062)
@@ -77,7 +78,8 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Piasecki, Bruce - Doing more with less : the new way to wealth](https://archive.org/details/doingmorewithles0000pias/page/n9)
 * [Robin, Vicki - Your Money or Your Life (Audio)](https://www.youtube.com/watch?v=5bIV_w4IA2g)
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
-* Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book)](https://archive.org/details/TheMillionaireNextDoorBookMANTESH.PDF)
+* Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book 1)](https://archive.org/details/millionairenextd00stan) [(Book 2)](https://archive.org/details/millionairenextdsta00stan/page/n1) [(Book 3)](https://archive.org/details/millionairenextd00thom) [(Book 4)](https://archive.org/details/millionairenext000stan)
+* [Stanley, Thomas Millionaire women next door : the many journeys of successful American businesswomen](https://archive.org/details/millionairewomen00stan)
 * [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
 
 
@@ -95,9 +97,15 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 
 ### Economics
+* [Häring, Norbert - Economics 2.0 : what the best minds in economics can teach you about business and life](https://archive.org/details/economics20whatb0000hari)
 * [OpenStax - Principles of Economics 2e](https://openstax.org/details/books/principles-economics-2e)
 * [OpenStax - Principles of Macroeconomics 2e](https://openstax.org/details/books/principles-macroeconomics-2e)
 * [OpenStax - Principles of Microeconomics 2e](https://openstax.org/details/books/principles-microeconomics-2e)
+
+
+
+
+
 
 
 ### Stock Market/Capitalism
