@@ -3,7 +3,7 @@ Free books and videos (maybe long-form blogs) on index funds/index investing and
 
 ## Recommended
 
-These books are essential:
+Start here:
 
 Author | Book/Video/Podcast
 -------|----------
