@@ -20,7 +20,6 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 
 ## Index
 * [Index Funds](#index-funds)
-* [Financial Independence](#financial-independence)
 * [Frugality](#frugality)
 * [Getting Out of Debt](#getting-out-of-debt)
 * [Economics](#economics)
@@ -58,8 +57,6 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Swedroe, Larry -The only guide to a winning investment strategy you'll ever need : index funds and beyond-- the way smart money invests today](https://archive.org/details/onlyguidetowinni00swed/page/n309)
 * [Swedroe, Larry - What Wall Street doesn't want you to know : how you can build real wealth investing in index funds](https://archive.org/details/whatwallstreetdo00swed/page/n5)
 * [Tweddell, Jerry - Winning with Index Mutual Funds](https://archive.org/details/winningwithindex00twed_1/page/n9)
-
-### Financial Independence
 
 
 ### Frugality
