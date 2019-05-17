@@ -1,5 +1,5 @@
 # free-index-funds-books
-Free books and videos (maybe long-form blogs) on index funds/index investing. Also check out your public library's physical stack as well as their Overdrive/Libby e-subscription. 🇺🇸
+Free books and videos (maybe long-form blogs) on index funds/index investing and financial independence. Also check out your public library's physical stack as well as their Overdrive/Libby e-subscription. 🇺🇸
 
 ## Recommended
 
@@ -17,6 +17,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ## Index
 * [Index Funds](#index-funds)
+* [Financial Independence](#financial-independence)
 * [Frugality](#frugality)
 * [Getting Out of Debt](#getting-out-of-debt)
 * [Economics](#economics)
@@ -54,6 +55,8 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Swedroe, Larry -The only guide to a winning investment strategy you'll ever need : index funds and beyond-- the way smart money invests today](https://archive.org/details/onlyguidetowinni00swed/page/n309)
 * [Swedroe, Larry - What Wall Street doesn't want you to know : how you can build real wealth investing in index funds](https://archive.org/details/whatwallstreetdo00swed/page/n5)
 * [Tweddell, Jerry - Winning with Index Mutual Funds](https://archive.org/details/winningwithindex00twed_1/page/n9)
+
+### Financial Independence
 
 
 ### Frugality
