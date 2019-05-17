@@ -61,6 +61,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 
 ### Frugality
 * [Bach, David - Fight for your money : how to stop getting ripped off and save a fortune](https://archive.org/details/fightforyourmone00davi)
+* [Bissonnette, Zac  Debt-Free U](https://archive.org/details/debtfreeuhowipai00biss_0)
 * [Bruno, Dave - The 100 thing challenge : how I got rid of almost everything, remade my life, and regained my soul](https://archive.org/details/100thingchalleng00unse)
 * [Clason, George - The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)
 * [Dominguez, Joe - Transforming Your Relationship with Money (Audio)](https://www.youtube.com/watch?v=vh254B3uVwQ)
