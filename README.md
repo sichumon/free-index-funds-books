@@ -66,6 +66,7 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Clason, George - The Richest Man in Babylon](https://en.wikipedia.org/wiki/The_Richest_Man_in_Babylon)
 * [Dominguez, Joe - Transforming Your Relationship with Money (Audio)](https://www.youtube.com/watch?v=vh254B3uVwQ)
 * [Donovan, Sandra - Budgeting smarts : how to set goals, save money, spend wisely, and more](https://archive.org/details/budgetingsmartsh00dono)
+* [Dunn, Elizabeth and Norton, Michael - Happy money : the science of smarter spending](https://archive.org/details/isbn_9781451665062)
 * [FreeEbooksFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Holm School - How to Be a Not Rich Computer Scientist](https://holm.school/about/)
 * [Kay, Ellie - How to save money every day](https://archive.org/details/howtosavemoneyev0000kaye)
@@ -78,6 +79,10 @@ Checkout these NPR podcasts: [1](https://www.npr.org/podcasts/510330/secrets-of-
 * [Rogers, Elizabeth and Howell, Colleen - Shift your habit : easy ways to save money, simplify your life, and save the planet](https://archive.org/details/shiftyourhabitea0000roge)
 * Stanley, Thomas - The Millionaire Next Door [(Audio)](https://www.youtube.com/watch?v=jPQrXxNi0yA) [(Book)](https://archive.org/details/TheMillionaireNextDoorBookMANTESH.PDF)
 * [Taylor, Kerry - 397 ways to save money : spend smarter & live well on less](https://archive.org/details/397waystosavemon0000tayl)
+
+
+
+
 
 
 
