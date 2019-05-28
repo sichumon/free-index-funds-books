@@ -72,6 +72,7 @@ r/FinancialIndependence | [Non-free reading list](https://www.reddit.com/r/finan
 * [Holm School - How to Be a Not Rich Computer Scientist](https://holm.school/about/)
 * [Kay, Ellie - How to save money every day](https://archive.org/details/howtosavemoneyev0000kaye)
 * [McCoy, Jonni - Mi$erly moms : living on one income in a two income economy](https://archive.org/details/miserlymoms00jonn)
+* [Mr. Money Mustache - Blog .epub](https://github.com/HolmSchool/MMM-Ebook/raw/master/Ebooks/mmm.epub)
 * [Muchnick, Cynthia - The frugal bride : save money on your wedding without losing an ounce of the romance](https://archive.org/details/frugalbridesavem0000much)
 * [Nardini, John and Meyering, Amy - 600 simple ways to save on everything](https://archive.org/details/600simplewaystos00nard)
 * [NPR LifeKit - Find Money You Didn't Know You Had (Audio)](https://www.npr.org/podcasts/510331/find-money-you-didnt-know-you-had)
