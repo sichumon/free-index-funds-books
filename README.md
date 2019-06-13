@@ -1,5 +1,5 @@
 # Free Index Funds, Frugality, and Financial Independence Books
-Free books and videos (maybe long-form blogs) on index funds/index investing and financial independence. Also check out your public library's physical stack as well as their Overdrive/Libby e-subscription. 🇺🇸
+Free books and videos (maybe long-form blogs) on index funds/index investing and financial independence / early retirement (FIRE). Also check out your public library's physical stack as well as their Overdrive/Libby e-subscription. 🇺🇸 Contributions welcome.
 
 ## Recommended
 
